@@ -1,11 +1,11 @@
 biz.dfch.j.graylog2.plugin.input.execscript
 ============================================
 
-Plugin: biz.dfch.j.graylog2.plugin.output.execscript
+Plugin: biz.dfch.j.graylog2.plugin.input.execscript
 
 d-fens GmbH, General-Guisan-Strasse 6, CH-6300 Zug, Switzerland
 
-This Graylog2 Output Plugin lets you run arbitrary scripts on a Graylog2 node.
+This Graylog2 Input Plugin lets you run arbitrary scripts on a Graylog2 node that will generate messages inside Graylog2.
 
 See [Creating a Graylog2 Output Plugin](http://d-fens.ch/2015/01/07/howto-creating-a-graylog2-output-plugin/) for further description and examples on how to use the plugin.
 
